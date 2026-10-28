@@ -660,7 +660,7 @@ def _start():
 
 SHOP = """<!doctype html><html lang="nl"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>YZ Shop — premium reps</title><style>
+<title>YZ Shop — premium items</title><style>
 body{font-family:system-ui,Segoe UI,sans-serif;background:#0b0f0e;color:#eef2f0;margin:0;padding:0 0 60px}
 header{padding:34px 24px 10px;max-width:1080px;margin:0 auto}
 .brand{font-size:30px;font-weight:800;letter-spacing:.02em}
@@ -687,7 +687,7 @@ border-radius:999px;padding:13px 20px;text-decoration:none;box-shadow:0 6px 24px
 </style></head><body>
 <header>
 <div class="brand">YZ<span> SHOP</span></div>
-<div class="sub">premium reps · handgepickte drops · levering 2–3 weken · betaling bij ontvangst</div>
+<div class="sub">premium items · handgepickte drops · levering 2–3 weken · betaling bij ontvangst</div>
 </header>
 <div class="grid">
 __CARDS__
